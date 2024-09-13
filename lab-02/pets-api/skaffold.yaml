@@ -8,7 +8,7 @@ build:
       format: "2006-01-02_15-04-05.999_MST"
       timezone: "Local"
   artifacts:
-    - image: asia-northeast1-docker.pkg.dev/${PROJECT_ID}/app-repo/random-pets
+    - image: asia-northeast1-docker.pkg.dev/qwiklabs-gcp-01-f1f376c796e2/app-repo/random-pets
       context: .
       docker:
         buildArgs:
