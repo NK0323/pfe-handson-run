@@ -4,11 +4,11 @@ const app = express();
 const port = 5000;
 
 const breeds: string[] = [
-  "Labrador Retriever",
-  "German Shepherd",
-  "Golden Retriever",
-  "French Bulldog",
-  "Bulldog",
+  "Labrador Retriever2",
+  "German Shepherd2",
+  "Golden Retriever2",
+  "French Bulldog2",
+  "Bulldog2",
   "Poodle",
   "Beagle",
   "Rottweiler",
